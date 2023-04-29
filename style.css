@@ -37,3 +37,7 @@ input{
     cursor: pointer;
     color: #ffffff;
 }
+
+.equalBtn{
+    background-color: #fb7c14;
+}
